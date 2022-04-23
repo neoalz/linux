@@ -1,0 +1,5 @@
+change lenguage
+-sudo nano /etc/locale.gen
+--comment en_US.UTF-8
+--uncomment es_CL.UTF-8
+-sudo locale-gen
